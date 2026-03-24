@@ -1,0 +1,16 @@
+{
+  "Febrero": [
+    { "titulo": "John Deere - Aire Acondicionado", "inicio": 9, "fin": 13 },
+    { "titulo": "Kleemann Widiag", "inicio": 16, "fin": 20 },
+    { "titulo": "Kleemann MR100", "inicio": 23, "fin": 27 }
+  ],
+  "Marzo": [
+    { "titulo": "Maestros de Elite", "inicio": 2, "fin": 6 },
+    { "titulo": "Aire acondicionado JD", "inicio": 9, "fin": 13 },
+    { "titulo": "Actualizacion Deaci", "inicio": 23, "fin": 27 }
+  ],
+  "Abril": [
+    { "titulo": "Certificacion Hamm", "inicio": 13, "fin": 17 },
+    { "titulo": "Frenos RT", "inicio": 14, "fin": 17 }
+  ]
+}
